@@ -1,0 +1,578 @@
+ale, lager, ale, ale, ale
+ale, stout, ale, ale, ale
+ale, lager, ale, ale, ale
+ale, lager, ale, ale, ale
+ale, lager, ale, ale, ale
+ale, lager, ale, ale, ale
+ale, lager, ale, ale, ale
+ale, stout, ale, ale, ale
+ale, lager, ale, ale, ale
+ale, lager, ale, ale, ale
+ale, lager, ale, ale, ale
+ale, lager, ale, ale, ale
+ale, lager, stout, ale, ale
+ale, lager, ale, ale, ale
+ale, lager, ale, ale, ale
+lager, stout, stout, lager, stout
+lager, lager, stout, lager, lager
+lager, lager, ale, ale, ale
+lager, lager, stout, lager, lager
+lager, lager, stout, lager, lager
+lager, lager, stout, lager, lager
+lager, lager, stout, lager, lager
+lager, stout, stout, lager, stout
+lager, lager, stout, lager, lager
+lager, stout, stout, lager, stout
+lager, lager, stout, lager, lager
+lager, lager, stout, lager, lager
+lager, lager, stout, lager, lager
+lager, lager, ale, lager, lager
+lager, lager, stout, lager, lager
+lager, lager, stout, lager, lager
+lager, lager, stout, lager, lager
+stout, stout, stout, lager, stout
+stout, stout, stout, lager, stout
+stout, stout, stout, ale, stout
+stout, stout, stout, lager, stout
+stout, stout, stout, lager, stout
+stout, stout, stout, ale, stout
+stout, stout, stout, lager, stout
+stout, stout, stout, lager, stout
+stout, stout, stout, ale, stout
+stout, stout, stout, lager, stout
+stout, stout, stout, lager, stout
+stout, stout, stout, lager, stout
+stout, stout, stout, ale, stout
+stout, stout, stout, lager, stout
+stout, stout, stout, lager, stout
+stout, stout, stout, lager, stout
+stout, stout, stout, ale, stout
+stout, stout, stout, lager, stout
+stout, stout, stout, lager, stout
+stout, stout, stout, lager, stout
+Prediction accuracy: 0.9230769230769231
+
+
+
+ale, ale, ale, lager, ale
+ale, ale, ale, stout, ale
+ale, ale, ale, lager, ale
+ale, ale, ale, lager, ale
+ale, ale, ale, lager, ale
+ale, ale, ale, lager, ale
+ale, ale, ale, lager, ale
+ale, ale, ale, lager, ale
+ale, ale, ale, lager, ale
+ale, ale, ale, lager, ale
+ale, ale, ale, lager, ale
+ale, ale, ale, lager, ale
+ale, ale, ale, lager, ale
+ale, ale, ale, lager, ale
+ale, ale, lager, stout, ale
+ale, ale, ale, stout, ale
+ale, ale, ale, lager, ale
+lager, stout, lager, lager, lager
+lager, stout, ale, lager, ale
+lager, ale, lager, lager, lager
+lager, ale, lager, lager, lager
+lager, ale, lager, lager, lager
+lager, stout, lager, lager, lager
+lager, ale, lager, lager, lager
+lager, stout, lager, lager, lager
+lager, stout, lager, lager, lager
+lager, stout, lager, stout, stout
+lager, ale, ale, lager, ale
+lager, stout, lager, stout, stout
+lager, stout, lager, lager, lager
+lager, ale, lager, lager, lager
+lager, ale, ale, lager, ale
+lager, stout, lager, lager, lager
+lager, stout, lager, stout, stout
+lager, ale, ale, lager, ale
+stout, stout, lager, lager, lager
+stout, stout, lager, stout, stout
+stout, stout, ale, stout, stout
+stout, stout, ale, stout, stout
+stout, stout, ale, stout, stout
+stout, stout, ale, stout, stout
+stout, stout, lager, stout, stout
+stout, ale, ale, stout, ale
+stout, stout, lager, stout, stout
+stout, stout, lager, stout, stout
+stout, ale, lager, stout, ale
+stout, stout, lager, stout, stout
+stout, stout, lager, lager, lager
+stout, stout, ale, stout, stout
+stout, stout, ale, stout, stout
+stout, stout, ale, stout, stout
+stout, ale, ale, stout, ale
+Prediction accuracy: 0.7692307692307693
+
+
+
+ale, ale, stout, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, lager, lager, ale, lager
+ale, ale, stout, ale, ale
+ale, lager, lager, ale, lager
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, stout, ale, ale
+lager, lager, stout, stout, stout
+lager, lager, lager, stout, lager
+lager, lager, stout, stout, stout
+lager, lager, lager, stout, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, stout, lager
+lager, lager, stout, stout, stout
+lager, lager, lager, stout, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, ale, lager
+lager, lager, stout, stout, stout
+lager, lager, lager, stout, lager
+lager, lager, stout, stout, stout
+stout, ale, lager, stout, ale
+stout, ale, stout, stout, stout
+stout, ale, stout, stout, stout
+stout, lager, lager, stout, lager
+stout, ale, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, ale, stout, stout, stout
+stout, ale, stout, stout, stout
+stout, ale, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, ale, stout, stout, stout
+stout, ale, stout, stout, stout
+stout, ale, stout, stout, stout
+Prediction accuracy: 0.8269230769230769
+
+
+
+ale, ale, stout, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, lager, ale, ale
+lager, lager, stout, stout, stout
+lager, lager, lager, stout, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, ale, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, ale, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, ale, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, ale, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, ale, lager
+lager, lager, lager, ale, lager
+lager, lager, lager, ale, lager
+lager, lager, lager, ale, lager
+lager, lager, stout, ale, ale
+stout, lager, stout, ale, ale
+stout, ale, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, ale, stout, stout, stout
+stout, lager, lager, stout, lager
+stout, lager, stout, stout, stout
+stout, lager, lager, stout, lager
+stout, lager, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, lager, stout, stout, stout
+Prediction accuracy: 0.9038461538461539
+
+
+
+ale, ale, ale, stout, ale
+ale, ale, ale, stout, ale
+ale, ale, ale, stout, ale
+ale, ale, ale, stout, ale
+ale, ale, ale, stout, ale
+ale, ale, ale, lager, ale
+ale, ale, ale, lager, ale
+ale, ale, ale, stout, ale
+ale, lager, ale, stout, ale
+ale, ale, ale, stout, ale
+ale, ale, ale, stout, ale
+ale, ale, ale, lager, ale
+ale, ale, ale, stout, ale
+ale, ale, ale, lager, ale
+ale, ale, ale, lager, ale
+ale, ale, ale, stout, ale
+ale, ale, ale, stout, ale
+lager, lager, stout, lager, lager
+lager, lager, stout, stout, stout
+lager, lager, stout, lager, lager
+lager, lager, stout, stout, stout
+lager, lager, ale, lager, lager
+lager, lager, stout, stout, stout
+lager, lager, stout, lager, lager
+lager, lager, stout, lager, lager
+lager, lager, stout, lager, lager
+lager, lager, stout, lager, lager
+lager, lager, stout, stout, stout
+lager, lager, stout, lager, lager
+lager, lager, stout, stout, stout
+lager, lager, stout, lager, lager
+lager, lager, stout, lager, lager
+lager, lager, stout, lager, lager
+lager, lager, stout, stout, stout
+lager, lager, stout, lager, lager
+lager, lager, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, ale, stout, stout, stout
+stout, ale, stout, stout, stout
+stout, lager, stout, lager, lager
+stout, lager, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, ale, stout, stout, stout
+stout, ale, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, lager, stout, stout, stout
+Prediction accuracy: 0.8461538461538461
+
+
+
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, stout, lager, ale
+ale, ale, stout, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, stout, ale, ale
+lager, stout, stout, lager, stout
+lager, ale, lager, lager, lager
+lager, stout, lager, lager, lager
+lager, ale, lager, lager, lager
+lager, stout, lager, lager, lager
+lager, stout, lager, lager, lager
+lager, stout, lager, ale, ale
+lager, stout, lager, lager, lager
+lager, stout, stout, lager, stout
+lager, stout, lager, lager, lager
+lager, stout, lager, lager, lager
+lager, stout, lager, lager, lager
+lager, stout, lager, lager, lager
+lager, ale, lager, ale, ale
+lager, stout, lager, lager, lager
+lager, stout, lager, lager, lager
+lager, stout, stout, lager, stout
+lager, stout, stout, lager, stout
+lager, stout, stout, lager, stout
+stout, stout, stout, lager, stout
+stout, stout, stout, lager, stout
+stout, stout, stout, lager, stout
+stout, stout, stout, lager, stout
+stout, stout, stout, lager, stout
+stout, stout, lager, lager, lager
+stout, stout, stout, lager, stout
+stout, stout, stout, ale, stout
+stout, stout, stout, ale, stout
+stout, stout, stout, lager, stout
+stout, stout, stout, lager, stout
+stout, stout, stout, lager, stout
+stout, stout, stout, lager, stout
+stout, stout, stout, lager, stout
+stout, stout, stout, lager, stout
+Prediction accuracy: 0.8461538461538461
+
+
+
+ale, ale, ale, lager, ale
+ale, ale, ale, lager, ale
+ale, ale, ale, lager, ale
+ale, lager, ale, lager, lager
+ale, ale, ale, lager, ale
+ale, ale, ale, lager, ale
+ale, ale, ale, lager, ale
+ale, ale, ale, lager, ale
+ale, ale, ale, lager, ale
+ale, ale, ale, lager, ale
+ale, ale, ale, lager, ale
+ale, ale, ale, lager, ale
+ale, ale, ale, lager, ale
+ale, ale, ale, lager, ale
+lager, lager, stout, lager, lager
+lager, lager, stout, lager, lager
+lager, lager, ale, lager, lager
+lager, lager, stout, lager, lager
+lager, lager, ale, lager, lager
+lager, lager, stout, lager, lager
+lager, lager, stout, lager, lager
+lager, lager, stout, lager, lager
+lager, ale, stout, stout, stout
+lager, lager, stout, lager, lager
+lager, lager, stout, lager, lager
+lager, lager, stout, lager, lager
+lager, lager, stout, lager, lager
+lager, lager, stout, lager, lager
+lager, lager, stout, lager, lager
+lager, lager, stout, lager, lager
+lager, lager, stout, lager, lager
+lager, lager, stout, lager, lager
+lager, lager, ale, lager, lager
+lager, lager, stout, lager, lager
+lager, lager, ale, lager, lager
+stout, ale, stout, lager, ale
+stout, ale, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, ale, stout, stout, stout
+stout, ale, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, lager, ale, lager, lager
+stout, lager, ale, stout, ale
+stout, lager, stout, lager, lager
+stout, ale, ale, stout, ale
+stout, ale, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, ale, ale, stout, ale
+Prediction accuracy: 0.8461538461538461
+
+
+
+ale, ale, lager, ale, ale
+ale, ale, lager, stout, ale
+ale, ale, stout, stout, stout
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, lager, lager, stout, lager
+ale, ale, lager, stout, ale
+ale, lager, lager, ale, lager
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+lager, lager, lager, stout, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, ale, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, ale, lager
+lager, lager, stout, ale, ale
+lager, lager, lager, stout, lager
+lager, lager, lager, ale, lager
+lager, lager, stout, ale, ale
+lager, lager, lager, ale, lager
+lager, lager, stout, stout, stout
+lager, lager, lager, ale, lager
+lager, lager, lager, ale, lager
+stout, ale, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, ale, stout, stout, stout
+stout, lager, lager, stout, lager
+stout, lager, stout, stout, stout
+stout, ale, stout, stout, stout
+stout, ale, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, ale, lager, stout, ale
+stout, ale, stout, stout, stout
+stout, ale, stout, stout, stout
+stout, ale, stout, stout, stout
+stout, lager, stout, stout, stout
+stout, lager, stout, stout, stout
+Prediction accuracy: 0.8461538461538461
+
+
+
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, stout, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, lager, ale, ale
+ale, ale, stout, ale, ale
+lager, stout, lager, lager, lager
+lager, stout, lager, lager, lager
+lager, stout, lager, lager, lager
+lager, stout, lager, lager, lager
+lager, stout, lager, lager, lager
+lager, stout, lager, lager, lager
+lager, stout, lager, lager, lager
+lager, stout, lager, lager, lager
+lager, stout, lager, lager, lager
+lager, stout, stout, lager, stout
+lager, stout, lager, lager, lager
+lager, stout, lager, lager, lager
+lager, stout, lager, lager, lager
+lager, stout, lager, lager, lager
+lager, ale, lager, lager, lager
+lager, ale, lager, ale, ale
+lager, stout, lager, lager, lager
+lager, stout, lager, lager, lager
+lager, stout, lager, lager, lager
+lager, stout, lager, lager, lager
+stout, stout, stout, lager, stout
+stout, stout, stout, lager, stout
+stout, stout, stout, ale, stout
+stout, stout, stout, ale, stout
+stout, stout, lager, lager, lager
+stout, stout, lager, ale, ale
+stout, stout, stout, lager, stout
+stout, stout, stout, ale, stout
+stout, stout, stout, ale, stout
+stout, stout, stout, ale, stout
+stout, stout, stout, ale, stout
+stout, stout, stout, ale, stout
+stout, stout, stout, ale, stout
+stout, stout, stout, lager, stout
+stout, stout, stout, lager, stout
+stout, stout, stout, ale, stout
+stout, stout, stout, ale, stout
+stout, stout, stout, ale, stout
+Prediction accuracy: 0.9230769230769231
+
+
+
+ale, lager, ale, ale, ale
+ale, stout, ale, ale, ale
+ale, lager, ale, ale, ale
+ale, lager, ale, ale, ale
+ale, lager, ale, ale, ale
+ale, lager, ale, ale, ale
+ale, stout, ale, ale, ale
+ale, lager, ale, ale, ale
+ale, lager, ale, ale, ale
+ale, lager, ale, ale, ale
+ale, lager, ale, ale, ale
+ale, lager, ale, ale, ale
+ale, stout, ale, ale, ale
+ale, lager, lager, ale, lager
+ale, lager, ale, ale, ale
+ale, lager, ale, ale, ale
+ale, lager, ale, ale, ale
+ale, lager, ale, ale, ale
+ale, lager, ale, ale, ale
+lager, lager, lager, stout, lager
+lager, stout, ale, stout, stout
+lager, lager, lager, stout, lager
+lager, lager, lager, stout, lager
+lager, stout, lager, ale, ale
+lager, lager, ale, stout, ale
+lager, lager, lager, ale, lager
+lager, lager, lager, ale, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, ale, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, stout, lager
+lager, stout, lager, stout, stout
+lager, stout, ale, ale, ale
+lager, lager, lager, ale, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, stout, lager
+lager, lager, lager, stout, lager
+lager, lager, ale, ale, ale
+lager, stout, lager, ale, ale
+stout, stout, lager, stout, stout
+stout, stout, ale, ale, ale
+stout, stout, ale, stout, stout
+stout, stout, lager, stout, stout
+stout, stout, ale, stout, stout
+stout, stout, ale, stout, stout
+stout, stout, lager, stout, stout
+stout, stout, ale, stout, stout
+stout, stout, lager, stout, stout
+stout, stout, ale, stout, stout
+stout, stout, ale, stout, stout
+stout, stout, ale, stout, stout
+stout, stout, ale, stout, stout
+Prediction accuracy: 0.8269230769230769
+
+
+
+
+
+Results from the C4.5 decision tree algorithm are above.
+The algorithm was run a total of ten times, and the average accuracy is reported below
+The training data consisted of 102 instances,
+While the test data consisted of 52 instances.
+
+A one to one multi-class approach was used for the data, 
+   where 3 models were created.
+Each model is created using only two classes from the entire class list,
+These models then vote on the final class, when predicting the test data.
+
+Above is the matrix containing the final class predictions, 
+   The leftmost column contains the original class of each instance of the test data,
+   The rightmost column contains the final prediction of the algorithm,
+   Each of the columns in between corresponds to the output from one model.
+
+The average prediction accuracy over ten executions was: 0.8557692307692306
