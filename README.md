@@ -1,4 +1,4 @@
-# C4.5_beer_classification
+# C4.5 Beer Classification
 
 A general implementation of Ross Quinlan's `C4.5 Algorithm`, built from scratch with python 3.8, with the goal of classifying a particular dataset.
 
